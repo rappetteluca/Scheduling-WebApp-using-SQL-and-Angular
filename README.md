@@ -35,4 +35,4 @@ An in-class demonstration was also provided.
 
 ## Known bugs and problem areas
 
-The fake backend is still partially being used. An SQL connection is created and users are inserted into the database, however user functionality (including login) is still reliant on the data in the fake backend. Future commits will remove backend futures and replaces with TypeORM's managers.
+The fake backend is still partially being used. An SQL connection is created and users are inserted into the database, however user functionality (including login) is still reliant on the data in the fake backend. Future commits will remove backend features and replace them with TypeORM's object managers.
